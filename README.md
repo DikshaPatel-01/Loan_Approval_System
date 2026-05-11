@@ -171,3 +171,15 @@ Evaluated models using:
 | Jupyter Notebook | Development Environment |
 
 ---
+
+# Author
+
+## Diksha Patel
+
+Aspiring Data Scientist passionate about:
+- Machine Learning
+- Analytics
+- AI Systems
+- Data-driven problem solving
+
+---
